@@ -1,6 +1,11 @@
 # Project : Borrower Risk Segmentation via Sparse PCA
 #### Lending Club Accepted Loans (2007‑2018)
 
+## Data
+- Source: [Lending Club Accepted Loans (2007‑2018)](https://www.kaggle.com/datasets/wordsforthewise/lending-club)
+- Files: `accepted_2007_to_2018Q4.csv` (~2 GB)
+- **Note:** Due to size, the raw data is not stored in this repo. Download it from the source link above and place it in a `data/` folder to run the notebook.
+
 1. **Business Objective**
 
 Identify latent risk profiles in Lending Club borrowers using unsupervised learning, providing actionable segments for underwriting, marketing, or product design.
@@ -172,7 +177,7 @@ Libraries: pandas, numpy, scikit‑learn, matplotlib, seaborn
 
 Notebook: Jupyter in VS Code
 
-Repository: [GitHub link]
+Repository: https://github.com/madianis/data-science-portfolio
 
 10. **Conclusion**
 
